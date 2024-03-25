@@ -10,7 +10,7 @@ export const Navbar = () => {
       <Container maxWidth="l">
       <Toolbar>
           <Typography variant="h5" component="p" sx={{ ml: 9 }}>
-            Car Loan Calculator
+            Loan Calculator
           </Typography>
         </Toolbar>
       </Container>
